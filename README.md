@@ -1,42 +1,52 @@
-<br clear="both">
+<h1 align="center">Hi there! 👋 I'm Giridhara Srinivas</h1>
+<p align="center">
+  <b>🚀 QA | Software Tester | Automation Enthusiast</b>
+</p>
 
-<h2 align="left">Hi 👋! My name is Giridhara Srinivas and I'm a Software Tester, from India</h2>
+---
 
-###
+### 💻 About Me
+- 🔍 Passionate about **Quality Assurance, Automation Testing, and API Testing**.
+- 🛠 Skilled in **Java, Selenium, TestNG, Cucumber, MySQL**.
+- 📖 Currently learning **API Testing & JSON for Manual API Testing**.
+- 🏆 **Hybrid Framework** developer for automation testing.
+- 🎯 Focused on delivering **bug-free, high-quality applications**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinuAgatsuma10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testng&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifcen.com%2Fzoro-gif-20%2F&psig=AOvVaw2mJxAYbjnZMOMsvtmYijsL&ust=1741001154290000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjdxvik64sDFQAAAAAdAAAAABAK"  />
+---
 
-###
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="30" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YourGitHubUsername" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 📌 Recent Projects
+- 🚀 **Hybrid Framework for Selenium with Java**
+- 🛒 **Magento Luma Automation Testing (Hybrid Data-Driven Framework)**
+- 🌍 **Air Quality Checker Web App using AirVisual API**
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/srinuAgatsuma10/srinuAgatsuma10/output/snake.svg" alt="Snake animation" />
-
-###
+⭐ **Feel free to explore my repositories and collaborate!** 🚀
