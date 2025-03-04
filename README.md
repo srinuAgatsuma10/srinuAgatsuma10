@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=srinuAgatsuma10&theme=radical&hide_border=true" alt="🔥 Streak Stats" />
   <br>
 <img src="https://komarev.com/ghpvc/?username=srinuAgatsuma10&label=👀+Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
