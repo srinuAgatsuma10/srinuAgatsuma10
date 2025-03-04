@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=srinuAgatsuma10&theme=radical&hide_border=true" alt="🔥 Streak Stats" />
+ <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
   <br>
-<img src="https://komarev.com/ghpvc/?username=srinuAgatsuma10&label=👀+Profile+Views&color=blue&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=srinuAgatsuma10&label=👀+Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ---
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Testing-%23007396.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" />
 </p>
 
 ---
