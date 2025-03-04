@@ -64,5 +64,10 @@
 
 ---
 <p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat-square" alt="Animated Contribution Graph" />
+</p>
+
+---
+<p align="center">
   <a href="mailto:ggsrinivascm035@gmail.com"><img src="https://img.shields.io/badge/💡+Looking+for+a+QA+Engineer%3F-Let%27s+connect!-blue?style=for-the-badge" /></a>
 </p>
