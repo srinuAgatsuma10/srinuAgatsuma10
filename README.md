@@ -28,19 +28,28 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure%20Report-%23008080.svg?style=for-the-badge&logo=allure&logoColor=white" alt="Allure Report Badge" />
+  <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" /> </br>
   <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Testing-%23007396.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
+  <img src="https://img.shields.io/badge/RestAssured-%236DB33F.svg?style=for-the-badge&logo=rest-assured&logoColor=white" alt="RestAssured Badge" />
   <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" />
+  
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
