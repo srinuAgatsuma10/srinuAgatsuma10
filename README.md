@@ -43,7 +43,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      
+      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&theme=tokyonight&hide_border=true" />
