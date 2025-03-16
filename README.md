@@ -30,31 +30,22 @@
 
 ### 🛠️ Tech Stack – Tools I Battle With
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,selenium,postman,restassured&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/RestAssured-%236DB33F.svg?style=for-the-badge&logo=rest-assured&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### ⚡ Frameworks & Tools in My Arsenal
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=testng,cucumber,maven,mysql,git,github,jenkins&theme=dark" />
-  </a>
-</p>
-
-
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-%23009639.svg?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-%23007396.svg?style=for-the-badge&logo=testng&logoColor=white" />
-  <img src="https://img.shields.io/badge/Allure%20Report-%23008080.svg?style=for-the-badge&logo=allure&logoColor=white" alt="Allure Report Badge" />
-  <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" /> </br>
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
-  <img src="https://img.shields.io/badge/RestAssured-%236DB33F.svg?style=for-the-badge&logo=rest-assured&logoColor=white" alt="RestAssured Badge" />
-  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" />
-  
+  <img src="https://img.shields.io/badge/Cucumber-%2300A859.svg?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Allure%20Report-%23008080.svg?style=for-the-badge&logo=allure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 ---
