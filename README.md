@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
+  <img src="https://count.getloli.com/get/@srinuAgatusma10?theme=gelbooru-h"> <br>
  <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=srinuAgatsuma10&label=👀+Profile+Views&color=blue&style=plastic" alt="Profile Views" />
 </p>
 
 ---
@@ -54,7 +53,7 @@
 ---
 
 ### 📌 Featured Repositories
-- 🚀 **[Amazon Testin apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassInternship.git)**
+- 🚀 **[Amazon Testing apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassInternship.git)**
 - 🛒 **[Magento Luma Automation Testing](https://github.com/srinuAgatsuma10/magento-luma-automation)**
 - 🔥 **API Automation and Manual Testing Projects onLoading**
 
