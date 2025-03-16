@@ -2,16 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Giridhara+Srinivas+%F0%9F%91%8B;Automation+Tester+%7C+Bug+Hunter" />
 </h1>
 
-<p align="center">
-  <b>QA | Software Tester | Automation Enthusiast</b>
-</p>
 
+<h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
   <img src="https://count.getloli.com/get/@srinuAgatusma10?theme=gelbooru-h"> <br>
+</p>
+
+  <h3 align="center">🏆 GitHub Stats 🏆</h3>
+  <p align="center">
  <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
 </p>
 
 ---
+
+<p align="center">
+  <b>QA | Software Tester | Automation Enthusiast</b>
+</p>
 
 ### 💻 About Me
 - 🔍 Passionate about **Quality Assurance, Automation Testing, and API Testing**.
@@ -21,6 +27,21 @@
 - 🎯 Focused on delivering **bug-free, high-quality applications**.
 
 ---
+
+### 🛠️ Tech Stack – Tools I Battle With
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,selenium,postman,restassured&theme=dark" />
+  </a>
+</p>
+
+### ⚡ Frameworks & Tools in My Arsenal
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=testng,cucumber,maven,mysql,git,github,jenkins&theme=dark" />
+  </a>
+</p>
+
 
 ### 🛠 Tech Stack
 <p align="center">
