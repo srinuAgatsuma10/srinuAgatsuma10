@@ -60,6 +60,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinuAgatsuma10&theme=radical" />
+    </td>
+  </tr>
 </table>
 
 ---
