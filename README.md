@@ -72,6 +72,7 @@
 ### 📌 Featured Repositories
 - 🚀 **[Amazon Testing apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassInternship.git)**
 - 🛒 **[Magento Luma Automation Testing](https://github.com/srinuAgatsuma10/magento-luma-automation)**
+- ⚓ **On a mission Sailing to GitHub by creating Repositories on Selenium basic practices**
 - 🔥 **API Automation and Manual Testing Projects onLoading**
 
 ---
