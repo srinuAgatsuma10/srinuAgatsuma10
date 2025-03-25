@@ -22,7 +22,7 @@
 ### 💻 About Me
 - 🔍 Passionate about **Quality Assurance, Automation Testing, and API Testing**.
 - 🛠 Skilled in **Java, Selenium, TestNG, Cucumber, MySQL**.
-- 📖 Currently learning **API Testing & JSON for Manual API Testing**.
+- 📖 Currently learning **API Testing (Manual and Atomation)**.
 - 🏆 **Hybrid Framework** developer for automation testing.
 - 🎯 Focused on delivering **bug-free, high-quality applications**.
 
