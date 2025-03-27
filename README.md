@@ -57,7 +57,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
   <tr>
