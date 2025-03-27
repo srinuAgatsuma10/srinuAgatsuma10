@@ -8,7 +8,7 @@
   <img src="https://count.getloli.com/get/@srinuAgatusma10?theme=gelbooru-h"> <br>
 </p>
 
-  <h3 align="center">🏆 GitHub Stats 🏆</h3>
+  <h3 align="center">🏆 GitHub Streaks 🏆</h3>
   <p align="center">
  <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
 </p>
@@ -54,7 +54,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&theme=tokyonight&hide_border=true" />
