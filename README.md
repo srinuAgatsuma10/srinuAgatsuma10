@@ -54,7 +54,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
@@ -70,8 +70,8 @@
 ---
 
 ### 📌 Featured Repositories
-- 🚀 **[Amazon Testing apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassInternship.git)**
-- 🛒 **[Magento Luma Automation Testing](https://github.com/srinuAgatsuma10/magento-luma-automation)**
+- 🚀 **[Amazon Testing apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassIntern.git)**
+- 🛒 **[Magento Luma Automation Testing](https://github.com/srinuAgatsuma10/MagentoLUMA_Project.git)**
 - ⚓ **On a mission Sailing to GitHub by creating Repositories on Selenium basic practices**
 - 🔥 **API Automation and Manual Testing Projects onLoading**
 
