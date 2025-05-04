@@ -20,10 +20,9 @@
 </p>
 
 ### 💻 About Me
-- 🔍 Passionate about **Quality Assurance, Automation Testing, and API Testing**.
+- 🔍 Passionate about **Quality Assurance, Automation Testing, API Testing and DataBase Testing**.
 - 🛠 Skilled in **Java, Selenium, TestNG, Cucumber, MySQL**.
-- 📖 Currently learning **API Testing (Manual and Atomation)**.
-- 🏆 **Hybrid Framework** developer for automation testing.
+- 🏆 **Hybrid Framework** developer for web/api automation testing.
 - 🎯 Focused on delivering **bug-free, high-quality applications**.
 
 ---
@@ -72,8 +71,9 @@
 ### 📌 Featured Repositories
 - 🚀 **[Amazon Testing apart of Internship](https://github.com/srinuAgatsuma10/AmazonTesting_NullClassIntern.git)**
 - 🛒 **[Magento Luma Automation Testing](https://github.com/srinuAgatsuma10/MagentoLUMA_Project.git)**
+- 👽 **[Pet Store API Automation Testing](https://github.com/srinuAgatsuma10/PetStoreAutomation_RestAssured.git)**
 - ⚓ **On a mission Sailing to GitHub by creating Repositories on Selenium basic practices**
-- 🔥 **API Automation and Manual Testing Projects onLoading**
+- 🔥 **New Web Automation Testing Projects onLoading**
 
 ---
 
