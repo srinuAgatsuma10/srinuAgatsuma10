@@ -10,8 +10,8 @@
 
   <h3 align="center">🏆 GitHub Streaks 🏆</h3>
   <p align="center">
- <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
-</p>
+    <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
+  </p>
 
 ---
 
