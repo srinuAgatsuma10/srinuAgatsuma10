@@ -10,7 +10,7 @@
 
   <h3 align="center">🏆 GitHub Streaks 🏆</h3>
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=srinuAgatsuma10&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=srinuAgatsuma10&theme=tokyonight&hide_border=true" alt="🔥 Streak Stats" />
   </p>
 
 ---
@@ -52,13 +52,13 @@
 ### 📊 GitHub Stats
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </td>
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
+  </td>
+</tr>
   <tr>
     <td align="center" colspan="2">
        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srinuAgatsuma10&theme=radical" />
