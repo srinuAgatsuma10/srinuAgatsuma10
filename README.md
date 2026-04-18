@@ -1,3 +1,6 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Giridhara+Srinivas+%F0%9F%91%8B;Automation+Tester+%7C+Bug+Hunter" />
 </h1>
@@ -95,3 +98,5 @@
 <p align="center">
   <a href="mailto:ggsrinivascm035@gmail.com"><img src="https://img.shields.io/badge/💡+Looking+for+a+QA+Engineer%3F-Let%27s+connect!-blue?style=for-the-badge" /></a>
 </p>
+
+<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
