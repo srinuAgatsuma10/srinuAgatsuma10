@@ -56,10 +56,10 @@
 <table align="center">
   <tr>
   <td align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=srinuAgatsuma10&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+   <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=srinuAgatsuma10" />
   </td>
   <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinuAgatsuma10&layout=compact&theme=radical&hide_border=true" />
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=srinuAgatsuma10&type=languages" />
   </td>
 </tr>
   <tr>
